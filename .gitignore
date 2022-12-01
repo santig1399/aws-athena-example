@@ -1,0 +1,10 @@
+# nodemodules
+node_modules
+# lockfiles
+package-lock.json
+yarn.lock
+
+# dotenv environment variables file
+.env
+
+
